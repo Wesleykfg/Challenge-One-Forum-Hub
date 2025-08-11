@@ -1,0 +1,2 @@
+ALTER TABLE topicos
+ADD COLUMN estado_topico BOOLEAN NOT NULL;
